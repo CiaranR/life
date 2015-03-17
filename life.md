@@ -9,4 +9,5 @@
 - 2004-2006 University - Ballyfermot
 - 2006-2008 Job - Realm Communications
 - 2008-2013 Job - Skimlinks - CTO
-- 2013-~ Job - Busuu - CTO
+- 2013-2014 Job - Busuu - CTO
+- 2014-~ Job - Swoon Editions - CTO
